@@ -1,4 +1,4 @@
-# Stuff For Stephanie To Learn So She Can Be Awesome At Data #
+# Stuff to learn to be awesome at data#
 
 ## Math
 
