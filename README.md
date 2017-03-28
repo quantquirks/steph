@@ -1,4 +1,4 @@
-# Stuff to learn to be awesome at data#
+# Stuff to learn to be awesome at data
 
 ## Math
 
