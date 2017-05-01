@@ -1,6 +1,7 @@
 # Stuff to learn to be awesome at data
 
 ## Math
+* [Project Euler](https://projecteuler.net/archives)
 
 ### Linear Algebra
 * [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
