@@ -51,3 +51,6 @@
 
 ## Sanity Readings 
 * [Data Science Imposter Syndrome](https://brohrer.github.io/imposter_syndrome.html)
+
+## Blogs
+* [Data Science and Robots](https://brohrer.github.io/blog.html)
