@@ -48,3 +48,6 @@
 ## Data Science Ethos
 * [How to become a data scientist](https://towardsdatascience.com/how-to-become-a-data-scientist-part-1-3-8706a62b809e)
 * [Data Scientist: Owning Up to the Title](https://www.linkedin.com/pulse/20141202183759-103457178-data-scientist-owning-up-to-the-title/?trk=prof-post)
+
+## Sanity Readings 
+* [Data Science Imposter Syndrome](https://brohrer.github.io/imposter_syndrome.html)
