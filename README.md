@@ -26,6 +26,7 @@
 ## Data Mining
 
 ## Data Visualization
+* [Devin Knight - PowerBI Blog](https://devinknightsql.com)
 
 ## SaaS Readings
 * [SaaS Metrics 2.0 - A Guide to Measuring and Improving what Matters](http://www.forentrepreneurs.com/saas-metrics-2/)
