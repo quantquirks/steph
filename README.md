@@ -26,7 +26,7 @@
 ## Data Mining
 
 ## Data Visualization
-* [Devin Knight - PowerBI Blog](https://devinknightsql.com
+* [Devin Knight - PowerBI Blog](https://devinknightsql.com)
 * [PowerBI Theme Generator] (https://powerbi.tips/tools/report-theme-generator-v3/)
 
 ## SaaS Readings
