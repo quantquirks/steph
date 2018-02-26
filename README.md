@@ -15,6 +15,7 @@
 * https://www.tutorialspoint.com/statistics/probability.htm
 * [Miltivariate and Bivariate Analysis](https://www.researchoptimus.com/market/multivariate-bivariate-analysis.php)
 * [WolframMathrorld Interactive Demonstrations (Algorithms)](http://mathworld.wolfram.com/topics/InteractiveDemonstrations.html)
+* [Rookie Mistakes in Empirical Analysis](http://marcfbellemare.com/wordpress/10024)
 
 ## Machine Learning
 * https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
