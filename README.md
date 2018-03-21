@@ -21,6 +21,7 @@
 * https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 * https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 * [Machine Learning in Python Step By Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+* [Why Machine Learning Matters](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
 ## Software Engineering
 
