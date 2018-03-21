@@ -24,6 +24,7 @@
 * [Why Machine Learning Matters](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
 ## Software Engineering
+* [Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 
 ## Data Mining
 
