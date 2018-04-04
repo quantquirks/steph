@@ -50,6 +50,7 @@
 ## Big Data
 
 ## Cloud Tools
+* [JupyterHub](https://www.oreilly.com/ideas/jupyterhub-on-gcloud)
 
 ## Data Science Ethos
 * [How to become a data scientist](https://towardsdatascience.com/how-to-become-a-data-scientist-part-1-3-8706a62b809e)
