@@ -26,6 +26,7 @@
 ## Software Engineering
 * [Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
+* [Oh Shit Git](http://www.ohshitgit.com/)
 
 ## Data Mining
 
