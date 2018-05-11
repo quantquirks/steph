@@ -63,3 +63,6 @@
 
 ## Blogs
 * [Data Science and Robots](https://brohrer.github.io/blog.html)
+
+## Books
+* [Big Machine - PSQL, Programming](https://bigmachine.io/)
