@@ -27,6 +27,7 @@
 * [Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * [Oh Shit Git](http://www.ohshitgit.com/)
+* [Programming Algorithms](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 
 ## Data Mining
 
