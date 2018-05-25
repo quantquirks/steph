@@ -30,6 +30,7 @@
 * [Programming Algorithms](https://adrianmejia.com/blog/2018/04/05/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 
 ## Data Mining
+* [ML Resource List](https://medium.com/@karamanbk/39-machine-learning-resources-that-will-help-you-in-every-essential-step-b2696515ed9)
 
 ## Data Visualization
 * [Devin Knight - PowerBI Blog](https://devinknightsql.com)
