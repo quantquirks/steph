@@ -44,6 +44,7 @@
 * [How to Calculate Customer Lifetime Value (CLV) in Ecommerce](https://blog.ometria.com/how-to-calculate-customer-lifetime-value-clv-in-ecommerce)
 
 ## SQL
+* [A Primer on Derived Tables and CTE](https://www.stitchdata.com/blog/a-primer-on-derived-tables-and-common-table-expressions/)
 
 ## R Programming
 
