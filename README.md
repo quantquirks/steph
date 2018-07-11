@@ -67,6 +67,7 @@
 
 ## Blogs
 * [Data Science and Robots](https://brohrer.github.io/blog.html)
+* [Airbnb Data](https://medium.com/airbnb-engineering/data/home)
 
 ## Books
 * [Big Machine - PSQL, Programming](https://bigmachine.io/)
