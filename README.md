@@ -76,3 +76,6 @@
 * [Data for Democracy](http://datafordemocracy.org)
 * [Data Kind](http://www.datakind.org)
 * [List of NPOs](https://medium.com/@kierisi/ymmv-non-profit-data-science-742d58df4459)
+
+## Public Datasets 
+* [Data.gov](https://catalog.data.gov/dataset)
