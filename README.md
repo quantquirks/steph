@@ -79,3 +79,6 @@
 
 ## Public Datasets 
 * [Data.gov](https://catalog.data.gov/dataset)
+
+## Industry Readings
+* [Gartner Data Sci 2019](https://www.gartner.com/doc/reprints?id=1-65WC0O1&ct=190128&st=sb)
